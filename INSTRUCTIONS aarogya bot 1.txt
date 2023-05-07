@@ -1,0 +1,13 @@
+**INSTRUCTIONS**
+
+STEP 1: Telegram Group In which you will send messages
+
+STEP 2: Telegram BOT & Add Bot in this Group
+
+STEP 3: Chat ID : <-*********> (used the message on bhot group - /my_id <@*******>)
+
+STEP 4: TOKEN - <***********************>  
+
+STEP 5: https://api.telegram.org/bot<TOKEN>/getUpdates
+ 
+STEP 6: https://api.telegram.org/bot<TOKEN>/sendMessage?chat_id=<-*********>&text="Hello! Welcome to AarogyaBot!"
