@@ -1,0 +1,10 @@
+1. Open BOT-Father on Telegram 
+2. /newbot
+3. Get Token link 
+4. /setuserpic
+5. Send Jpje Image
+6. /setdescription
+7. /setabouttext
+8. /setprivacy (DISABLE)
+9. /setinline
+10. /setcommands
